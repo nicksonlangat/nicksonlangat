@@ -9,10 +9,10 @@ secure coding and mental awareness. I look forward to working on a team that is 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="TailwindCSS" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="TailwindCSS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="TailwindCSS" width="50" height="50"/>
 
 ---
-
 🧰 Front End Toolbox
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TailwindCSS" width="50" height="50"/> 
@@ -36,6 +36,7 @@ secure coding and mental awareness. I look forward to working on a team that is 
 ---
 
 🧰 Environment Toolbox
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="TailwindCSS" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="TailwindCSS" width="50" height="50"/> 
@@ -43,6 +44,8 @@ secure coding and mental awareness. I look forward to working on a team that is 
 ---
 🧰 Version Control and Package Managers Toolbox
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="Git" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
