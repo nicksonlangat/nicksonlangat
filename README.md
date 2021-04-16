@@ -26,8 +26,6 @@ secure coding and mental awareness. I look forward to working on a team that is 
 
 ---
 
----
-
 🧰 Server Toolbox
 <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="50" height="50"/> 
@@ -42,4 +40,11 @@ secure coding and mental awareness. I look forward to working on a team that is 
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="TailwindCSS" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="TailwindCSS" width="50" height="50"/> 
 
+---
+🧰 Version Control and Package Managers Toolbox
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" alt="TailwindCSS" width="50" height="50"/> 
 
