@@ -26,14 +26,6 @@ secure coding and mental awareness. I look forward to working on a team that is 
 
 ---
 
-🧰 Version Control and Package Managers Toolbox
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" alt="TailwindCSS" width="50" height="50"/> 
-
 ---
 
 🧰 Server Toolbox
