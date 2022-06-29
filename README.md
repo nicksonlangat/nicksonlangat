@@ -4,7 +4,8 @@ I am a full stack Software Engineer specializing in Python and JavaScript progra
 secure coding and mental awareness. I look forward to working on a team that is customer oriented and passionate about their product.
 
 ---
-
+![](https://komarev.com/ghpvc/?username=nicksonlangat&color=green)
+----
 🧰 Back end Toolbox
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="50" height="50"/>
